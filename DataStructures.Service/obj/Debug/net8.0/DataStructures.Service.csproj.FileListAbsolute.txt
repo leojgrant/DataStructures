@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\bin\Debug\net8.0\DataStructures.Service.deps.json
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\bin\Debug\net8.0\DataStructures.Service.dll
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\bin\Debug\net8.0\DataStructures.Service.pdb
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.AssemblyInfo.cs
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.dll
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\refint\DataStructures.Service.dll
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\DataStructures.Service.pdb
+C:\Users\Owner\Documents\Software Development\Data Structures\DataStructures\DataStructures.Service\obj\Debug\net8.0\ref\DataStructures.Service.dll
